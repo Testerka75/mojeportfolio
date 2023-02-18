@@ -24,3 +24,4 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
 ## MOJE PROJEKTY
+https://github.com/Testerka75/challenge_portfolio_Testerka75/blob/main/README.md

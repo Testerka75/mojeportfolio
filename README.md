@@ -25,4 +25,9 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
 ## MOJE PROJEKTY
 :pushpin: https://drive.google.com/drive/folders/1GBRyc9g22fgMSliClrSaJmqnEgQkcpxS?hl=pl
+
 :pushpin: https://drive.google.com/drive/folders/1Rvlw7SlAlizR64WN4r6ifQvPYxqwz3r3?hl=pl
+
+:pushpin: https://docs.google.com/document/d/17IqI_C3Z8kZlEGCG7Z0bM-WBuqSDEw9K/edit
+
+:pushpin: https://docs.google.com/document/d/17IqI_C3Z8kZlEGCG7Z0bM-WBuqSDEw9K/edit

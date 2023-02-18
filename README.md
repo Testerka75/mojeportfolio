@@ -23,7 +23,7 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 * [testerzy.pl](www.testerzy.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
-## MOJE PROJEKTY
+## MOJE PRACE
 :pushpin: https://docs.google.com/spreadsheets/d/1FCrcYuX5yiskBA4csUdLsOZ9UsNvL-_q/edit#gid=888234621
 
 :pushpin: https://docs.google.com/document/d/1yXYF7n-OZ-U-z6dQdnfjUbYP28BVJ5F7/edit

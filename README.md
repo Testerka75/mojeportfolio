@@ -22,4 +22,5 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 ## BLOGI, KTÓRE CZYTAM
 * [testerzy.pl](www.testerzy.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+* [wyszkolewas.pl](https://www.wyszkolewas.com.pl)
 ## MOJE PROJEKTY

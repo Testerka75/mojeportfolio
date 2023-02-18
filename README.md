@@ -21,4 +21,5 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 * Zgłaszanie błędów
 ## BLOGI, KTÓRE CZYTAM
 * [testerzy.pl](www.testerzy.pl)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 ## MOJE PROJEKTY

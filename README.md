@@ -20,5 +20,5 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 * Tworzenie przypadków testowych
 * Zgłaszanie błędów
 ## BLOGI, KTÓRE CZYTAM
-* ![testerzy.pl](www.testerzy.pl)
+* [testerzy.pl](www.testerzy.pl)
 ## MOJE PROJEKTY

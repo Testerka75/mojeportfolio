@@ -26,7 +26,7 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 ## MOJE PROJEKTY
 :pushpin: https://docs.google.com/spreadsheets/d/1FCrcYuX5yiskBA4csUdLsOZ9UsNvL-_q/edit#gid=888234621
 
-:pushpin: https://drive.google.com/drive/folders/1Rvlw7SlAlizR64WN4r6ifQvPYxqwz3r3?hl=pl
+:pushpin: https://docs.google.com/document/d/1yXYF7n-OZ-U-z6dQdnfjUbYP28BVJ5F7/edit
 
 :pushpin: https://docs.google.com/document/d/17IqI_C3Z8kZlEGCG7Z0bM-WBuqSDEw9K/edit
 

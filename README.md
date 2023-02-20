@@ -24,7 +24,7 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
 ## MOJE PRACE
-:pushpin: https://docs.google.com/spreadsheets/d/1FCrcYuX5yiskBA4csUdLsOZ9UsNvL-_q/edit#gid=888234621
+:pushpin: [Bugs Report](https://docs.google.com/spreadsheets/d/1FCrcYuX5yiskBA4csUdLsOZ9UsNvL-_q/edit#gid=888234621)
 
 :pushpin: https://docs.google.com/document/d/1yXYF7n-OZ-U-z6dQdnfjUbYP28BVJ5F7/edit
 

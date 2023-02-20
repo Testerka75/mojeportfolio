@@ -26,8 +26,8 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 ## MOJE PRACE
 :pushpin: [Bugs Report](https://docs.google.com/spreadsheets/d/1FCrcYuX5yiskBA4csUdLsOZ9UsNvL-_q/edit#gid=888234621)
 
-:pushpin: https://docs.google.com/document/d/1yXYF7n-OZ-U-z6dQdnfjUbYP28BVJ5F7/edit
-
 :pushpin: [Przypadki testowe_1](https://docs.google.com/document/d/1ItJppzjYYx1L2ANMRTsO-OKa-YRQ2seL/edit)
 
-:pushpin: https://docs.google.com/document/d/17IqI_C3Z8kZlEGCG7Z0bM-WBuqSDEw9K/edit
+:pushpin: [Przypadki testowe_2](https://docs.google.com/spreadsheets/d/1cIAuhlxMjpDj9NcTciFC-3x9VIIwJvIA/edit#gid=85183694)
+
+:pushpin: [Przypadki testowe_3](https://docs.google.com/spreadsheets/d/1XPW8cd2-LD76ebWnNOZlksli108Bo87w/edit#gid=1388889754)

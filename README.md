@@ -26,7 +26,7 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
 ## MOJE PRACE
 
-[Scouts Panel](https://scouts-test.futbolkolektyw.pl/) - panel do zarządzania graczami, meczami i do tworzenia raportów
+### [Scouts Panel](https://scouts-test.futbolkolektyw.pl/) - panel do zarządzania graczami, meczami i do tworzenia raportów
 
 :pushpin: [Bugs Report](https://docs.google.com/spreadsheets/d/1FCrcYuX5yiskBA4csUdLsOZ9UsNvL-_q/edit#gid=888234621)
 
@@ -34,6 +34,6 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 
 :pushpin: [Przypadki testowe2](https://docs.google.com/spreadsheets/d/1XPW8cd2-LD76ebWnNOZlksli108Bo87w/edit#gid=1388889754)
 
-[PHP Travels](https://phptravels.net/) - panel do organizacji podróży, rezerwacji lotów i hoteli
+### [PHP Travels](https://phptravels.net/) - panel do organizacji podróży, rezerwacji lotów i hoteli
 
 :pushpin: [Przypadki testowe3](https://docs.google.com/document/d/1ItJppzjYYx1L2ANMRTsO-OKa-YRQ2seL/edit)

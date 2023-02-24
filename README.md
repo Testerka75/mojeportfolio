@@ -26,7 +26,7 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w rol
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
 ## MOJE PRACE
 
-[Scouts Panel](https://scouts-test.futbolkolektyw.pl/) - panel zarządzania graczami, meczami i do tworzenia raportów
+[Scouts Panel](https://scouts-test.futbolkolektyw.pl/) - panel do zarządzania graczami, meczami i do tworzenia raportów
 
 :pushpin: [Bugs Report](https://docs.google.com/spreadsheets/d/1FCrcYuX5yiskBA4csUdLsOZ9UsNvL-_q/edit#gid=888234621)
 

@@ -4,10 +4,10 @@ Mam na imię Ola. Niedawno rozpoczęłam podróż ku zmianie ścieżki zawodowej
 ## MOJE DOŚWIADCZENIE
 W trakcie mojej dotychczasowej pracy zawodowej kilkakrotnie występowałam w roli testera, ale od strony prawdziwego użytkownika danego oprogramowania. Testowałam aplikację do samoobsługi pracowniczej, wdrażane dodatkowe rozwiązania do programu kadrowo-płacowego SAP HR, czy moduły do oceny pracowniczej. Testowanie odbywało się albo wg przypadków testowych, albo bazując na doświadczeniu, a błędy zgłaszane byly w formie opisowej do konsultantów, z którymi współparcowałam.
 ## KURSY
-* Dare IT Challenges - Zostań Testerem Manualnym
-* Bootcamp Future Collars - Tester Manualny
-* kursysql.pl - SQL w 120 minut
-* W3Schools.pl
+* Dare IT Challenges - Zostań Testerem Manualnym [Dare IT Challenges](https://www.dareit.io/challenges/qa-manual-testing)
+* Bootcamp Future Collars - Tester Manualny [Future Collars](https://futurecollars.com/kursy/tester-oprogramowania/)
+* kursysql.pl [SQL w 120 minut](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+* w3schools.pl [SQL Tutorial](https://www.w3schools.com/sql/)
 ## NARZĘDZIA
 * GitHub
 * app.slak.com

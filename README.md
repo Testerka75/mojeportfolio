@@ -38,6 +38,6 @@ W trakcie mojej dotychczasowej pracy zawodowej kilkukrotnie występowałam w rol
 
 :pushpin: [Przypadki testowe3](https://docs.google.com/document/d/1ItJppzjYYx1L2ANMRTsO-OKa-YRQ2seL/edit)
 
-### [Maxi Zoo](https://www.maxizoo.pl/) - sklepinternetowy z żywnością i akcesoriami dla zwierząt
+### [Maxi Zoo](https://www.maxizoo.pl/) - sklep internetowy z żywnością i akcesoriami dla zwierząt
 
 :pushpin: [Przypadki testowe4](https://docs.google.com/document/d/14Zo_4WgW5Jzf9wBc49UeTAClmd7j9YTj/edit)
